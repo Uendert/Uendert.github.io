@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cosmologist / Astrostatistician @ Umichigan <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Cosmologist @ Umichigan <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
