@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: automatically generated publication list from NASA's ADS service, powered by jekyll-scholar. 
+description: automatically generated publication list from NASA's ADS service, powered by jekyll-scholar.
 nav: true
 nav_order: 4
 ---

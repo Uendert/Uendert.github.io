@@ -27,9 +27,9 @@ I am Uendert Andrade, a postdoctoral researcher at the [University of Michigan](
 Currently, I am engaged in analyzing data from the Dark Energy Spectroscopic Instrument (DESI) and the Dark Energy Survey (DES) to study large-scale structure and dark energy. My work involves developing novel techniques to process and analyze large data sets, with the goal of unveiling the properties of the universe. Through these efforts, I aim to answer key questions about the universe's expansion history, the distribution of dark matter, and the validity of the cosmological principle.
 
 Some of the broad questions my research aims to address are:
-* How can large-scale structure surveys help constrain the properties of dark energy and dark matter?
-* What can cosmological perturbations tell us about the universe's early conditions and its evolution?
-* How can Bayesian methods be used to test the cosmological principle and detect potential deviations from the standard cosmological model?
-  
-I earned my PhD in Cosmology from the [Observatório Nacional](https://www.gov.br/observatorio/pt-br) in Rio de Janeiro, where I worked on various aspects of cosmology, including testing the isotropy of the universe, probing the scale of cosmic homogeneity, and conducting null tests of general relativity.
 
+- How can large-scale structure surveys help constrain the properties of dark energy and dark matter?
+- What can cosmological perturbations tell us about the universe's early conditions and its evolution?
+- How can Bayesian methods be used to test the cosmological principle and detect potential deviations from the standard cosmological model?
+
+I earned my PhD in Cosmology from the [Observatório Nacional](https://www.gov.br/observatorio/pt-br) in Rio de Janeiro, where I worked on various aspects of cosmology, including testing the isotropy of the universe, probing the scale of cosmic homogeneity, and conducting null tests of general relativity.

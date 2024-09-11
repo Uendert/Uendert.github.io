@@ -1,1 +1,250 @@
-{"assets":{"83E40E80BFD1A44FF646D96C4036C004":{"type":"texture","index":1,"url":{"native":"assets\/06B561A7-2B95-4A08-88C0-6F64ED36BD3F.pdf"},"width":1920,"height":1080},"1DC2F0B163593E9DDA179774365EE0E7":{"type":"texture","index":0,"url":{"native":"assets\/06B561A7-2B95-4A08-88C0-6F64ED36BD3F.pdf"},"width":1920,"height":1080}},"events":[{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"83E40E80BFD1A44FF646D96C4036C004"},{"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":false},"repeatCount":0,"fillMode":"both","duration":0.001,"autoreverses":false,"property":"hidden","to":{"scalar":true},"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"1DC2F0B163593E9DDA179774365EE0E7"}]}]},"effects":[],"duration":0.001,"type":"transition","attributes":{"direction":0},"name":"none","objectID":"0"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"The Dark Energy Spectroscopic Instrument (DESI) Overview","targetRectangle":{"y":338.52792358398438,"x":195.40000152587891,"width":1263.2400006058215,"height":84.822402954101562}},{"text":"What is DESI? What does it do? How does it do it?","targetRectangle":{"y":423.35032653808594,"x":243.40000104904175,"width":979.2200004819033,"height":93.224002599716187}},{"text":"DESI observables","targetRectangle":{"y":516.57432913780212,"x":195.40000152587891,"width":375.87440017309189,"height":100.66240286827087}},{"text":"BAO measurements","targetRectangle":{"y":617.236732006073,"x":243.40000104904175,"width":387.50800015735626,"height":93.224002599716187}},{"text":"Full Shape measurements","targetRectangle":{"y":710.46073460578918,"x":243.40000104904175,"width":500.14800022619954,"height":93.224002599716187}},{"text":"Blind Watchers of the Sky","targetRectangle":{"y":803.68473720550537,"x":195.40000152587891,"width":546.38760027045601,"height":100.66240286827087}},{"text":"Cosmological Constraints from DESI BAO","targetRectangle":{"y":904.34714007377625,"x":195.40000152587891,"width":886.97840041109521,"height":100.66240286827087}},{"text":"Outline","targetRectangle":{"y":79,"x":395.47012329101562,"width":277.61000026598572,"height":100.53440856933594}},{"text":"Picture 8","targetRectangle":{"y":56.864620208740234,"x":17.202360153198242,"width":339.9761962890625,"height":149.27076721191406}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"1DC2F0B163593E9DDA179774365EE0E7"}]}]}}]}
+{
+  "assets": {
+    "83E40E80BFD1A44FF646D96C4036C004": {
+      "type": "texture",
+      "index": 1,
+      "url": { "native": "assets/06B561A7-2B95-4A08-88C0-6F64ED36BD3F.pdf" },
+      "width": 1920,
+      "height": 1080
+    },
+    "1DC2F0B163593E9DDA179774365EE0E7": {
+      "type": "texture",
+      "index": 0,
+      "url": { "native": "assets/06B561A7-2B95-4A08-88C0-6F64ED36BD3F.pdf" },
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "events": [
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "0",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "83E40E80BFD1A44FF646D96C4036C004"
+                  },
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 0,
+                        "from": { "scalar": false },
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.001,
+                        "autoreverses": false,
+                        "property": "hidden",
+                        "to": { "scalar": true },
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "1DC2F0B163593E9DDA179774365EE0E7"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.001,
+          "type": "transition",
+          "attributes": { "direction": 0 },
+          "name": "none",
+          "objectID": "0"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "The Dark Energy Spectroscopic Instrument (DESI) Overview",
+          "targetRectangle": { "y": 338.52792358398438, "x": 195.40000152587891, "width": 1263.2400006058215, "height": 84.822402954101562 }
+        },
+        {
+          "text": "What is DESI? What does it do? How does it do it?",
+          "targetRectangle": { "y": 423.35032653808594, "x": 243.40000104904175, "width": 979.2200004819033, "height": 93.224002599716187 }
+        },
+        {
+          "text": "DESI observables",
+          "targetRectangle": { "y": 516.57432913780212, "x": 195.40000152587891, "width": 375.87440017309189, "height": 100.66240286827087 }
+        },
+        {
+          "text": "BAO measurements",
+          "targetRectangle": { "y": 617.236732006073, "x": 243.40000104904175, "width": 387.50800015735626, "height": 93.224002599716187 }
+        },
+        {
+          "text": "Full Shape measurements",
+          "targetRectangle": { "y": 710.46073460578918, "x": 243.40000104904175, "width": 500.14800022619954, "height": 93.224002599716187 }
+        },
+        {
+          "text": "Blind Watchers of the Sky",
+          "targetRectangle": { "y": 803.68473720550537, "x": 195.40000152587891, "width": 546.38760027045601, "height": 100.66240286827087 }
+        },
+        {
+          "text": "Cosmological Constraints from DESI BAO",
+          "targetRectangle": { "y": 904.34714007377625, "x": 195.40000152587891, "width": 886.97840041109521, "height": 100.66240286827087 }
+        },
+        { "text": "Outline", "targetRectangle": { "y": 79, "x": 395.47012329101562, "width": 277.61000026598572, "height": 100.53440856933594 } },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 56.864620208740234, "x": 17.202360153198242, "width": 339.9761962890625, "height": 149.27076721191406 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "objectID": "0",
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "layers": [],
+                "texturedRectangle": {
+                  "isBackgroundTexture": false,
+                  "singleTextureOpacity": 1,
+                  "textureType": 0,
+                  "textBaseline": 0,
+                  "textXHeight": 0,
+                  "isVerticalText": false
+                },
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 0,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "texture": "1DC2F0B163593E9DDA179774365EE0E7"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

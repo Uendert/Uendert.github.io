@@ -5,14 +5,14 @@
     "image": "",
     "email": "uendsa@umich.edu",
     "phone": "",
-    "url": "https://lsa.umich.edu/physics/people/research-fellows/uendsa.html",  // Add your personal website URL here if you have one
+    "url": "https://lsa.umich.edu/physics/people/research-fellows/uendsa.html", // Add your personal website URL here if you have one
     "summary": "A dedicated researcher specializing in theoretical cosmology, computational cosmology, foundations of cosmology, cosmological principle, dark energy, dark matter, cosmological perturbations, extensions of standard cosmology, cosmography, bayesian analysis, MCMC samplers.",
     "location": {
-      "address": "450 Church St ",  // Add your full address if needed
-      "postalCode": "48109",  // Add postal code
-      "city": "Ann Arbor",  // Add your city
-      "countryCode": "United States",  // Add country code
-      "region": "MI"  // Add region/state if applicable
+      "address": "450 Church St ", // Add your full address if needed
+      "postalCode": "48109", // Add postal code
+      "city": "Ann Arbor", // Add your city
+      "countryCode": "United States", // Add country code
+      "region": "MI" // Add region/state if applicable
     },
     "profiles": [
       // {
@@ -22,8 +22,8 @@
       // },
       {
         "network": "GitHub",
-        "username": "@Uendert",  // Add GitHub username
-        "url": "https://github.com/Uendert"  // Add GitHub URL
+        "username": "@Uendert", // Add GitHub username
+        "url": "https://github.com/Uendert" // Add GitHub URL
       }
     ]
   },
@@ -31,7 +31,7 @@
     {
       "company": "University of Michigan",
       "position": "Postdoctoral Researcher",
-      "website": "https://lsa.umich.edu/physics/people/research-fellows/uendsa.html",  // Add company website URL if available
+      "website": "https://lsa.umich.edu/physics/people/research-fellows/uendsa.html", // Add company website URL if available
       "startDate": "2022-sep-01",
       "endDate": "",
       "summary": "Conducting research on Dark Energy with Large-Scale Structure data from DESI and DES at the University of Michigan. PI: Prof. Dragan Huterer"
@@ -41,10 +41,14 @@
     {
       "name": "The Dark Energy Spectroscopic Instrument (DESI) Survey",
       "summary": "Involved in analyzing data from the Dark Energy Spectroscopic Instrument (DESI) survey to study dark energy and its effects on cosmic expansion and structure formation.",
-      "highlights": ["Lead anlysis efforts for the Galaxy and Quasar Catalog-Level Blinding ", "Developed pipelines for data processing", "Contributed to the DESI collaboration's key publications"],
+      "highlights": [
+        "Lead anlysis efforts for the Galaxy and Quasar Catalog-Level Blinding ",
+        "Developed pipelines for data processing",
+        "Contributed to the DESI collaboration's key publications"
+      ],
       "startDate": "2022-01-01",
       "endDate": "",
-      "url": "https://www.desi.lbl.gov"  // Add project URL if available
+      "url": "https://www.desi.lbl.gov" // Add project URL if available
     },
     {
       "name": "The Dark Energy Survey (DES)",
@@ -52,42 +56,42 @@
       "highlights": ["Extension beyond the standard cosmological model"],
       "startDate": "2022-01-01",
       "endDate": "",
-      "url": "https://www.darkenergysurvey.org"  // Add project URL if available
+      "url": "https://www.darkenergysurvey.org" // Add project URL if available
     }
   ],
   "education": [
     {
       "institution": "Universidade Federal Rural do Rio de Janeiro",
       "location": "Rio de Janeiro, Brazil",
-      "url": "",  // Add your university URL if applicable
+      "url": "", // Add your university URL if applicable
       "area": "Physics",
       "studyType": "BSc",
       "startDate": "2011-01-01",
       "endDate": "2016-01-01",
-      "score": "",  // Add GPA if desired
-      "courses": []  // List any relevant courses here if applicable
+      "score": "", // Add GPA if desired
+      "courses": [] // List any relevant courses here if applicable
     },
     {
       "institution": "Oberservatório Nacional",
       "location": "Rio de Janeiro, Brazil",
-      "url": "",  // Add your university URL if applicable
+      "url": "", // Add your university URL if applicable
       "area": "Astrophysics",
       "studyType": "MSc",
       "startDate": "2016-01-01",
       "endDate": "2018-01-01",
-      "score": "",  // Add GPA if desired
-      "courses": []  // List any relevant courses here if applicable
+      "score": "", // Add GPA if desired
+      "courses": [] // List any relevant courses here if applicable
     },
     {
       "institution": "Oberservatório Nacional",
       "location": "Rio de Janeiro, Brazil",
-      "url": "",  // Add your university URL if applicable
+      "url": "", // Add your university URL if applicable
       "area": "Cosmology",
       "studyType": "PhD",
       "startDate": "2018-01-01",
       "endDate": "2022-01-01",
-      "score": "",  // Add GPA if desired
-      "courses": []  // List any relevant courses here if applicable
+      "score": "", // Add GPA if desired
+      "courses": [] // List any relevant courses here if applicable
     }
   ],
   "awards": [
@@ -96,7 +100,7 @@
       "date": "2021-12-01",
       "endDate": "2022-08-01",
       "awarder": "Ministry of Science, Technology and Innovation of Brazil",
-      "url": "",  // Add URL if available
+      "url": "", // Add URL if available
       "summary": "Postdoctoral fellowship awarded by the Ministry of Science, Technology and Innovation of Brazil."
     },
     {
@@ -104,7 +108,7 @@
       "date": "2020-03-01",
       "endDate": "2021-11-01",
       "awarder": "FAPERJ",
-      "url": "",  // Add URL if available
+      "url": "", // Add URL if available
       "summary": "Scholarship awarded to the best Ph.D. candidates in the State of Rio de Janeiro."
     },
     {
@@ -112,7 +116,7 @@
       "date": "2019-09-01",
       "endDate": "2020-02-01",
       "awarder": "CAPES",
-      "url": "",  // Add URL if available
+      "url": "", // Add URL if available
       "summary": "Scholarship awarded under the Institutional Programme for Scholarships for Sandwich Doctorates Abroad."
     },
     {
@@ -120,7 +124,7 @@
       "date": "2018-03-01",
       "endDate": "2020-02-01",
       "awarder": "CAPES",
-      "url": "",  // Add URL if available
+      "url": "", // Add URL if available
       "summary": "Awarded to support outstanding graduate students in their research endeavors."
     },
     {
@@ -128,7 +132,7 @@
       "date": "2016-03-01",
       "endDate": "2018-02-01",
       "awarder": "CAPES",
-      "url": "",  // Add URL if available
+      "url": "", // Add URL if available
       "summary": "Awarded to support outstanding graduate students in their research endeavors."
     }
   ],
@@ -147,24 +151,13 @@
       "name": "Research",
       "level": "Advanced",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Data Analysis",
-        "Cosmology",
-        "Computational Physics",
-        "Machine Learning",
-        "Scientific Programming"
-      ]
+      "keywords": ["Data Analysis", "Cosmology", "Computational Physics", "Machine Learning", "Scientific Programming"]
     },
     {
       "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C++",
-        "Fortran",
-        "R"
-      ]
+      "keywords": ["Python", "C++", "Fortran", "R"]
     }
   ],
   "languages": [
@@ -183,23 +176,12 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Cosmology",
-        "Dark Energy",
-        "Dark Matter",
-        "Cosmological Principle",
-        "Statistic"
-      ]
+      "keywords": ["Cosmology", "Dark Energy", "Dark Matter", "Cosmological Principle", "Statistic"]
     },
     {
       "name": "Personal",
       "icon": "fa-solid fa-anchor",
-      "keywords": [
-        "Traveling",
-        "Running",
-        "Cooking",
-        "Hiking"
-      ]
+      "keywords": ["Traveling", "Running", "Cooking", "Hiking"]
     }
   ],
   "references": [

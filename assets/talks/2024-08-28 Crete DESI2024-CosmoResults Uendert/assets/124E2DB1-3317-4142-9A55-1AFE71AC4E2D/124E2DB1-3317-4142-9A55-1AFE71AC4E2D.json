@@ -1,1 +1,2935 @@
-{"assets":{"61398895CB6DD2BF5D0A74B9427E09D4":{"type":"texture","index":11,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":1920,"height":1080},"BD21BEF20F85DE8FF8DE1E8590D80CBD":{"type":"texture","index":9,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":1849,"height":92},"9B8121D7BD296F9E762C57D1D960320B":{"type":"texture","index":6,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":25,"height":18},"89C1150E5C4DF379FFDDAB194F7C6E9C":{"type":"texture","index":2,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":343,"height":153},"7F7935913B1CE59E4DB3F9C4B6AD2681":{"type":"texture","index":7,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":1798,"height":100},"88CD67C878D9EA07375EF098F8E0286F":{"type":"texture","index":5,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":923,"height":81},"5BA6DF7ACEF516F7DAB78587CF30CE20":{"type":"texture","index":0,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":1920,"height":1080},"EDB101960B4A9322D1F594412E08B8D6":{"type":"texture","index":10,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":1920,"height":1080},"234B222656611A6AB23795834EDF76E7":{"type":"texture","index":3,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":747,"height":22},"3BBC2AF3BE82C4C3F7BB4310FC1E880B":{"type":"texture","index":4,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":284,"height":22},"EBCB3760C7E1FAD8BC26AE84613B0E5A":{"type":"texture","index":1,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":5,"height":131},"16BE2F06DDBBBAB97B0FC0301ED56146":{"type":"texture","index":8,"url":{"native":"assets\/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf"},"width":1730,"height":90}},"events":[{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":928.87550926208496,"pointY":271.86242032051086},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":100,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"D371E642-4021-4924-BC01-4C5370708C46","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":930.12449073791504,"pointY":318.13757967948914},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":100,"hidden":false,"anchorPoint":{"pointX":0.51731061776302278,"pointY":3.1813757967948915}},"layers":[{"animations":[{"additive":false,"timeOffset":0,"beginTime":1e-100,"repeatCount":0,"fillMode":"both","duration":0.01,"autoreverses":false,"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":true},"repeatCount":0,"fillMode":"both","duration":0.0001,"autoreverses":false,"property":"hidden","to":{"scalar":false},"removedOnCompletion":true},{"additive":false,"timeOffset":0,"beginTime":0.0001,"from":{"scalar":false},"repeatCount":0,"fillMode":"forwards","duration":0.0099000000000000008,"autoreverses":false,"property":"hidden","to":{"scalar":false},"removedOnCompletion":true}],"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.24815999999999999,"textBaseline":0.88728947313880779,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":900.12449073791504,"pointY":62.137579679489136},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":100,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"7F7935913B1CE59E4DB3F9C4B6AD2681"}]}]},"effects":[],"duration":0.01,"type":"buildIn","attributes":{"direction":0},"name":"apple:bc-appear","objectID":"D371E642-4021-4924-BC01-4C5370708C46"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ","targetRectangle":{"y":1041.0841376728204,"x":1050.2376000976565,"width":750.03999999999951,"height":24.41986083984375}},{"text":"Picture 8","targetRectangle":{"y":12.79906177520752,"x":8.4552078247070312,"width":339.9761962890625,"height":149.27076721191406}},{"text":"Neutrinos in cosmology ","targetRectangle":{"y":34.9344482421875,"x":401.30154418945312,"width":944.43500087395296,"height":100.53440856933594}},{"text":"Uendert Andrade (UMichigan)","targetRectangle":{"y":1042.0561835712579,"x":8.4335163545608509,"width":282.55999999999995,"height":24.41986083984375}},{"text":"￼","targetRectangle":{"y":1041.5740358829498,"x":1872.6704055149457,"width":22.240000000000009,"height":23.44000244140625}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":true,"singleTextureOpacity":1,"textureType":1,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"5BA6DF7ACEF516F7DAB78587CF30CE20"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":374.36648178100586,"pointY":89.222042083740234},"width":5,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":131,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0,"shapePath":{"lineWidth":1,"flatness":0.59999999999999998,"lineCapStyle":0,"elements":[{"type":"MoveToPoint","points":[[2.8664817810058594,1.7220420837402344]]},{"type":"AddLine","points":[[2.8664817810058594,129.14685453344373]]}],"windingRule":0,"lineJoinStyle":0,"miterLimit":10},"isBackgroundTexture":true,"textBaseline":0,"isVerticalText":false,"textureType":5},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":0.63351821899414062,"pointY":63.777957916259766},"width":5,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":131,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"EBCB3760C7E1FAD8BC26AE84613B0E5A"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":179.95520782470703,"pointY":89.29906177520752},"width":343,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":153,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":true,"singleTextureOpacity":1,"textureType":5,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":170.04479217529297,"pointY":74.70093822479248},"width":343,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":153,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"89C1150E5C4DF379FFDDAB194F7C6E9C"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":1383.6804809570312,"pointY":1048.2442216819909},"width":747,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.46999999999999997,"textBaseline":0.73473153306853911,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.9821816086769104,0.88637906312942505,0.19645535945892334,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":413.31951904296875,"pointY":18.755778318009106},"width":747,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"234B222656611A6AB23795834EDF76E7"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":141.01037609577179,"pointY":1049.2162675804284},"width":284,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.46999999999999997,"textBaseline":0.73346089208842546,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.00063899887027218938,0.63360309600830078,0.99999994039535522,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":150.98962390422821,"pointY":18.783732419571606},"width":284,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"3BBC2AF3BE82C4C3F7BB4310FC1E880B"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":858.80154418945312,"pointY":71.4344482421875},"width":923,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":81,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.54253086419753083,"textBaseline":0.77807730215567128,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":469.19845581054688,"pointY":63.5655517578125},"width":923,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":81,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"88CD67C878D9EA07375EF098F8E0286F"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":1880.6704055149457,"pointY":1046.5740358829498},"width":25,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":18,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.57444444444444442,"textBaseline":0.87522719966040718,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.66274511814117432,0.66274517774581909,0.66274511814117432,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":15.329594485054258,"pointY":16.425964117050171},"width":25,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":18,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"9B8121D7BD296F9E762C57D1D960320B"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":928.87550926208496,"pointY":271.86242032051086},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":100,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"D371E642-4021-4924-BC01-4C5370708C46","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.24815999999999999,"textBaseline":0.88728947313880779,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":900.12449073791504,"pointY":62.137579679489136},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":100,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"7F7935913B1CE59E4DB3F9C4B6AD2681"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":899.37889862060547,"pointY":509.77175259590149},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":90,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.27573333333333333,"textBaseline":0.97375866210301565,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":867.62110137939453,"pointY":58.228247404098511},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":90,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"16BE2F06DDBBBAB97B0FC0301ED56146"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":971.35998916625977,"pointY":737.86181616783142},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":92,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"98DEAEFD-2C7B-46CB-BB58-3821E033E111","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.26973913043478259,"textBaseline":0.97166242117268464,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":926.64001083374023,"pointY":59.138183832168579},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":92,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"BD21BEF20F85DE8FF8DE1E8590D80CBD"}]}]}]}},{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":899.37889862060547,"pointY":509.77175259590149},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":90,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":925.62110137939453,"pointY":75.228247404098511},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":90,"hidden":false,"anchorPoint":{"pointX":0.53504109906323383,"pointY":0.83586941560109451}},"layers":[{"animations":[{"additive":false,"timeOffset":0,"beginTime":1e-100,"repeatCount":0,"fillMode":"both","duration":0.01,"autoreverses":false,"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":true},"repeatCount":0,"fillMode":"both","duration":0.0001,"autoreverses":false,"property":"hidden","to":{"scalar":false},"removedOnCompletion":true},{"additive":false,"timeOffset":0,"beginTime":0.0001,"from":{"scalar":false},"repeatCount":0,"fillMode":"forwards","duration":0.0099000000000000008,"autoreverses":false,"property":"hidden","to":{"scalar":false},"removedOnCompletion":true}],"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.27573333333333333,"textBaseline":0.97375866210301565,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":867.62110137939453,"pointY":58.228247404098511},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":90,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"16BE2F06DDBBBAB97B0FC0301ED56146"}]}]},"effects":[],"duration":0.01,"type":"buildIn","attributes":{"direction":0},"name":"apple:bc-appear","objectID":"DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ","targetRectangle":{"y":1041.0841376728204,"x":1050.2376000976565,"width":750.03999999999951,"height":24.41986083984375}},{"text":"Picture 8","targetRectangle":{"y":12.79906177520752,"x":8.4552078247070312,"width":339.9761962890625,"height":149.27076721191406}},{"text":"Neutrinos in cosmology ","targetRectangle":{"y":34.9344482421875,"x":401.30154418945312,"width":944.43500087395296,"height":100.53440856933594}},{"text":"Uendert Andrade (UMichigan)","targetRectangle":{"y":1042.0561835712579,"x":8.4335163545608509,"width":282.55999999999995,"height":24.41986083984375}},{"text":"￼","targetRectangle":{"y":1041.5740358829498,"x":1872.6704055149457,"width":22.240000000000009,"height":23.44000244140625}},{"text":"A generic prediction of the hot Big Bang model is a relic neutrino background which leaves detectable imprints on cosmological observations.","targetRectangle":{"y":225.86242032051086,"x":33.875509262084961,"width":1806.576,"height":107.09040394649492}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":true,"singleTextureOpacity":1,"textureType":1,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"5BA6DF7ACEF516F7DAB78587CF30CE20"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":374.36648178100586,"pointY":89.222042083740234},"width":5,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":131,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0,"shapePath":{"lineWidth":1,"flatness":0.59999999999999998,"lineCapStyle":0,"elements":[{"type":"MoveToPoint","points":[[2.8664817810058594,1.7220420837402344]]},{"type":"AddLine","points":[[2.8664817810058594,129.14685453344373]]}],"windingRule":0,"lineJoinStyle":0,"miterLimit":10},"isBackgroundTexture":true,"textBaseline":0,"isVerticalText":false,"textureType":5},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":0.63351821899414062,"pointY":63.777957916259766},"width":5,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":131,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"EBCB3760C7E1FAD8BC26AE84613B0E5A"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":179.95520782470703,"pointY":89.29906177520752},"width":343,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":153,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":true,"singleTextureOpacity":1,"textureType":5,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":170.04479217529297,"pointY":74.70093822479248},"width":343,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":153,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"89C1150E5C4DF379FFDDAB194F7C6E9C"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":1383.6804809570312,"pointY":1048.2442216819909},"width":747,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.46999999999999997,"textBaseline":0.73473153306853911,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.9821816086769104,0.88637906312942505,0.19645535945892334,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":413.31951904296875,"pointY":18.755778318009106},"width":747,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"234B222656611A6AB23795834EDF76E7"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":141.01037609577179,"pointY":1049.2162675804284},"width":284,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.46999999999999997,"textBaseline":0.73346089208842546,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.00063899887027218938,0.63360309600830078,0.99999994039535522,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":150.98962390422821,"pointY":18.783732419571606},"width":284,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"3BBC2AF3BE82C4C3F7BB4310FC1E880B"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":858.80154418945312,"pointY":71.4344482421875},"width":923,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":81,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.54253086419753083,"textBaseline":0.77807730215567128,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":469.19845581054688,"pointY":63.5655517578125},"width":923,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":81,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"88CD67C878D9EA07375EF098F8E0286F"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":1880.6704055149457,"pointY":1046.5740358829498},"width":25,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":18,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.57444444444444442,"textBaseline":0.87522719966040718,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.66274511814117432,0.66274517774581909,0.66274511814117432,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":15.329594485054258,"pointY":16.425964117050171},"width":25,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":18,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"9B8121D7BD296F9E762C57D1D960320B"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":928.87550926208496,"pointY":271.86242032051086},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":100,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"D371E642-4021-4924-BC01-4C5370708C46","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.24815999999999999,"textBaseline":0.88728947313880779,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":900.12449073791504,"pointY":62.137579679489136},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":100,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"7F7935913B1CE59E4DB3F9C4B6AD2681"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":899.37889862060547,"pointY":509.77175259590149},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":90,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.27573333333333333,"textBaseline":0.97375866210301565,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":867.62110137939453,"pointY":58.228247404098511},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":90,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"16BE2F06DDBBBAB97B0FC0301ED56146"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":971.35998916625977,"pointY":737.86181616783142},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":92,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"98DEAEFD-2C7B-46CB-BB58-3821E033E111","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.26973913043478259,"textBaseline":0.97166242117268464,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":926.64001083374023,"pointY":59.138183832168579},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":92,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"BD21BEF20F85DE8FF8DE1E8590D80CBD"}]}]}]}},{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":971.35998916625977,"pointY":737.86181616783142},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":92,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"98DEAEFD-2C7B-46CB-BB58-3821E033E111","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":913.14001083374023,"pointY":-151.86181616783142},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":92,"hidden":false,"anchorPoint":{"pointX":0.49385614431246094,"pointY":-1.6506719148677329}},"layers":[{"animations":[{"additive":false,"timeOffset":0,"beginTime":1e-100,"repeatCount":0,"fillMode":"both","duration":0.01,"autoreverses":false,"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":true},"repeatCount":0,"fillMode":"both","duration":0.0001,"autoreverses":false,"property":"hidden","to":{"scalar":false},"removedOnCompletion":true},{"additive":false,"timeOffset":0,"beginTime":0.0001,"from":{"scalar":false},"repeatCount":0,"fillMode":"forwards","duration":0.0099000000000000008,"autoreverses":false,"property":"hidden","to":{"scalar":false},"removedOnCompletion":true}],"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.26973913043478259,"textBaseline":0.97166242117268464,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":926.64001083374023,"pointY":59.138183832168579},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":92,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"BD21BEF20F85DE8FF8DE1E8590D80CBD"}]}]},"effects":[],"duration":0.01,"type":"buildIn","attributes":{"direction":0},"name":"apple:bc-appear","objectID":"98DEAEFD-2C7B-46CB-BB58-3821E033E111"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ","targetRectangle":{"y":1041.0841376728204,"x":1050.2376000976565,"width":750.03999999999951,"height":24.41986083984375}},{"text":"Both the acoustic oscillations in the primordial plasma as well as the background evolution and structure formation","targetRectangle":{"y":468.77175259590149,"x":38.378898620605469,"width":1738.992,"height":107.09040394649492}},{"text":"Picture 8","targetRectangle":{"y":12.79906177520752,"x":8.4552078247070312,"width":339.9761962890625,"height":149.27076721191406}},{"text":"Neutrinos in cosmology ","targetRectangle":{"y":34.9344482421875,"x":401.30154418945312,"width":944.43500087395296,"height":100.53440856933594}},{"text":"Uendert Andrade (UMichigan)","targetRectangle":{"y":1042.0561835712579,"x":8.4335163545608509,"width":282.55999999999995,"height":24.41986083984375}},{"text":"￼","targetRectangle":{"y":1041.5740358829498,"x":1872.6704055149457,"width":22.240000000000009,"height":23.44000244140625}},{"text":"A generic prediction of the hot Big Bang model is a relic neutrino background which leaves detectable imprints on cosmological observations.","targetRectangle":{"y":225.86242032051086,"x":33.875509262084961,"width":1806.576,"height":107.09040394649492}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":true,"singleTextureOpacity":1,"textureType":1,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"5BA6DF7ACEF516F7DAB78587CF30CE20"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":374.36648178100586,"pointY":89.222042083740234},"width":5,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":131,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0,"shapePath":{"lineWidth":1,"flatness":0.59999999999999998,"lineCapStyle":0,"elements":[{"type":"MoveToPoint","points":[[2.8664817810058594,1.7220420837402344]]},{"type":"AddLine","points":[[2.8664817810058594,129.14685453344373]]}],"windingRule":0,"lineJoinStyle":0,"miterLimit":10},"isBackgroundTexture":true,"textBaseline":0,"isVerticalText":false,"textureType":5},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":0.63351821899414062,"pointY":63.777957916259766},"width":5,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":131,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"EBCB3760C7E1FAD8BC26AE84613B0E5A"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":179.95520782470703,"pointY":89.29906177520752},"width":343,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":153,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":true,"singleTextureOpacity":1,"textureType":5,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":170.04479217529297,"pointY":74.70093822479248},"width":343,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":153,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"89C1150E5C4DF379FFDDAB194F7C6E9C"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":1383.6804809570312,"pointY":1048.2442216819909},"width":747,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.46999999999999997,"textBaseline":0.73473153306853911,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.9821816086769104,0.88637906312942505,0.19645535945892334,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":413.31951904296875,"pointY":18.755778318009106},"width":747,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"234B222656611A6AB23795834EDF76E7"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":141.01037609577179,"pointY":1049.2162675804284},"width":284,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.46999999999999997,"textBaseline":0.73346089208842546,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.00063899887027218938,0.63360309600830078,0.99999994039535522,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":150.98962390422821,"pointY":18.783732419571606},"width":284,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":22,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"3BBC2AF3BE82C4C3F7BB4310FC1E880B"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":858.80154418945312,"pointY":71.4344482421875},"width":923,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":81,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.54253086419753083,"textBaseline":0.77807730215567128,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":469.19845581054688,"pointY":63.5655517578125},"width":923,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":81,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"88CD67C878D9EA07375EF098F8E0286F"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":1880.6704055149457,"pointY":1046.5740358829498},"width":25,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":18,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.57444444444444442,"textBaseline":0.87522719966040718,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.66274511814117432,0.66274517774581909,0.66274511814117432,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":15.329594485054258,"pointY":16.425964117050171},"width":25,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":18,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"9B8121D7BD296F9E762C57D1D960320B"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":928.87550926208496,"pointY":271.86242032051086},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":100,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"D371E642-4021-4924-BC01-4C5370708C46","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.24815999999999999,"textBaseline":0.88728947313880779,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":900.12449073791504,"pointY":62.137579679489136},"width":1798,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":100,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"7F7935913B1CE59E4DB3F9C4B6AD2681"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":899.37889862060547,"pointY":509.77175259590149},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":90,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.27573333333333333,"textBaseline":0.97375866210301565,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":867.62110137939453,"pointY":58.228247404098511},"width":1730,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":90,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"16BE2F06DDBBBAB97B0FC0301ED56146"}]}]},{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":971.35998916625977,"pointY":737.86181616783142},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":92,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"98DEAEFD-2C7B-46CB-BB58-3821E033E111","layers":[{"animations":[],"layers":[],"texturedRectangle":{"singleTextureOpacity":1,"textXHeight":0.26973913043478259,"textBaseline":0.97166242117268464,"isBackgroundTexture":true,"isVerticalText":false,"textColor":[0.99990898370742798,1,0.99987810850143433,1],"textureType":6},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":926.64001083374023,"pointY":59.138183832168579},"width":1849,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":92,"hidden":true,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"BD21BEF20F85DE8FF8DE1E8590D80CBD"}]}]}]}},{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"61398895CB6DD2BF5D0A74B9427E09D4"},{"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":false},"repeatCount":0,"fillMode":"both","duration":0.001,"autoreverses":false,"property":"hidden","to":{"scalar":true},"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"EDB101960B4A9322D1F594412E08B8D6"}]}]},"effects":[],"duration":0.001,"type":"transition","attributes":{"direction":0},"name":"none","objectID":"0"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ","targetRectangle":{"y":1041.0841376728204,"x":1050.2376000976565,"width":750.03999999999951,"height":24.41986083984375}},{"text":"Both the acoustic oscillations in the primordial plasma as well as the background evolution and structure formation","targetRectangle":{"y":468.77175259590149,"x":38.378898620605469,"width":1738.992,"height":107.09040394649492}},{"text":"Cosmological observations are sensitive to both the number of neutrino species and their total mass","targetRectangle":{"y":695.86181616783142,"x":50.859989166259766,"width":1858.8000000000002,"height":108.94689806443057}},{"text":"Picture 8","targetRectangle":{"y":12.79906177520752,"x":8.4552078247070312,"width":339.9761962890625,"height":149.27076721191406}},{"text":"Neutrinos in cosmology ","targetRectangle":{"y":34.9344482421875,"x":401.30154418945312,"width":944.43500087395296,"height":100.53440856933594}},{"text":"Uendert Andrade (UMichigan)","targetRectangle":{"y":1042.0561835712579,"x":8.4335163545608509,"width":282.55999999999995,"height":24.41986083984375}},{"text":"￼","targetRectangle":{"y":1041.5740358829498,"x":1872.6704055149457,"width":22.240000000000009,"height":23.44000244140625}},{"text":"A generic prediction of the hot Big Bang model is a relic neutrino background which leaves detectable imprints on cosmological observations.","targetRectangle":{"y":225.86242032051086,"x":33.875509262084961,"width":1806.576,"height":107.09040394649492}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"EDB101960B4A9322D1F594412E08B8D6"}]}]}}]}
+{
+  "assets": {
+    "61398895CB6DD2BF5D0A74B9427E09D4": {
+      "type": "texture",
+      "index": 11,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 1920,
+      "height": 1080
+    },
+    "BD21BEF20F85DE8FF8DE1E8590D80CBD": {
+      "type": "texture",
+      "index": 9,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 1849,
+      "height": 92
+    },
+    "9B8121D7BD296F9E762C57D1D960320B": {
+      "type": "texture",
+      "index": 6,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 25,
+      "height": 18
+    },
+    "89C1150E5C4DF379FFDDAB194F7C6E9C": {
+      "type": "texture",
+      "index": 2,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 343,
+      "height": 153
+    },
+    "7F7935913B1CE59E4DB3F9C4B6AD2681": {
+      "type": "texture",
+      "index": 7,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 1798,
+      "height": 100
+    },
+    "88CD67C878D9EA07375EF098F8E0286F": {
+      "type": "texture",
+      "index": 5,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 923,
+      "height": 81
+    },
+    "5BA6DF7ACEF516F7DAB78587CF30CE20": {
+      "type": "texture",
+      "index": 0,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 1920,
+      "height": 1080
+    },
+    "EDB101960B4A9322D1F594412E08B8D6": {
+      "type": "texture",
+      "index": 10,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 1920,
+      "height": 1080
+    },
+    "234B222656611A6AB23795834EDF76E7": {
+      "type": "texture",
+      "index": 3,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 747,
+      "height": 22
+    },
+    "3BBC2AF3BE82C4C3F7BB4310FC1E880B": {
+      "type": "texture",
+      "index": 4,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 284,
+      "height": 22
+    },
+    "EBCB3760C7E1FAD8BC26AE84613B0E5A": {
+      "type": "texture",
+      "index": 1,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 5,
+      "height": 131
+    },
+    "16BE2F06DDBBBAB97B0FC0301ED56146": {
+      "type": "texture",
+      "index": 8,
+      "url": { "native": "assets/124E2DB1-3317-4142-9A55-1AFE71AC4E2D.pdf" },
+      "width": 1730,
+      "height": 90
+    }
+  },
+  "events": [
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 928.87550926208496, "pointY": 271.86242032051086 },
+              "width": 1798,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 100,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "D371E642-4021-4924-BC01-4C5370708C46",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 930.12449073791504, "pointY": 318.13757967948914 },
+                  "width": 1798,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 100,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.51731061776302278, "pointY": 3.1813757967948915 }
+                },
+                "layers": [
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 1e-100,
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.01,
+                        "autoreverses": false,
+                        "animations": [
+                          {
+                            "additive": false,
+                            "timeOffset": 0,
+                            "beginTime": 0,
+                            "from": { "scalar": true },
+                            "repeatCount": 0,
+                            "fillMode": "both",
+                            "duration": 0.0001,
+                            "autoreverses": false,
+                            "property": "hidden",
+                            "to": { "scalar": false },
+                            "removedOnCompletion": true
+                          },
+                          {
+                            "additive": false,
+                            "timeOffset": 0,
+                            "beginTime": 0.0001,
+                            "from": { "scalar": false },
+                            "repeatCount": 0,
+                            "fillMode": "forwards",
+                            "duration": 0.0099000000000000008,
+                            "autoreverses": false,
+                            "property": "hidden",
+                            "to": { "scalar": false },
+                            "removedOnCompletion": true
+                          }
+                        ],
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.24815999999999999,
+                      "textBaseline": 0.88728947313880779,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 900.12449073791504, "pointY": 62.137579679489136 },
+                      "width": 1798,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 100,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "7F7935913B1CE59E4DB3F9C4B6AD2681"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.01,
+          "type": "buildIn",
+          "attributes": { "direction": 0 },
+          "name": "apple:bc-appear",
+          "objectID": "D371E642-4021-4924-BC01-4C5370708C46"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ",
+          "targetRectangle": { "y": 1041.0841376728204, "x": 1050.2376000976565, "width": 750.03999999999951, "height": 24.41986083984375 }
+        },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 12.79906177520752, "x": 8.4552078247070312, "width": 339.9761962890625, "height": 149.27076721191406 }
+        },
+        {
+          "text": "Neutrinos in cosmology ",
+          "targetRectangle": { "y": 34.9344482421875, "x": 401.30154418945312, "width": 944.43500087395296, "height": 100.53440856933594 }
+        },
+        {
+          "text": "Uendert Andrade (UMichigan)",
+          "targetRectangle": { "y": 1042.0561835712579, "x": 8.4335163545608509, "width": 282.55999999999995, "height": 24.41986083984375 }
+        },
+        {
+          "text": "￼",
+          "targetRectangle": { "y": 1041.5740358829498, "x": 1872.6704055149457, "width": 22.240000000000009, "height": 23.44000244140625 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": true,
+                      "singleTextureOpacity": 1,
+                      "textureType": 1,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 374.36648178100586, "pointY": 89.222042083740234 },
+                  "width": 5,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 131,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0,
+                      "shapePath": {
+                        "lineWidth": 1,
+                        "flatness": 0.59999999999999998,
+                        "lineCapStyle": 0,
+                        "elements": [
+                          { "type": "MoveToPoint", "points": [[2.8664817810058594, 1.7220420837402344]] },
+                          { "type": "AddLine", "points": [[2.8664817810058594, 129.14685453344373]] }
+                        ],
+                        "windingRule": 0,
+                        "lineJoinStyle": 0,
+                        "miterLimit": 10
+                      },
+                      "isBackgroundTexture": true,
+                      "textBaseline": 0,
+                      "isVerticalText": false,
+                      "textureType": 5
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 0.63351821899414062, "pointY": 63.777957916259766 },
+                      "width": 5,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 131,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "EBCB3760C7E1FAD8BC26AE84613B0E5A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 179.95520782470703, "pointY": 89.29906177520752 },
+                  "width": 343,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 153,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": true,
+                      "singleTextureOpacity": 1,
+                      "textureType": 5,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 170.04479217529297, "pointY": 74.70093822479248 },
+                      "width": 343,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 153,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "89C1150E5C4DF379FFDDAB194F7C6E9C"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 1383.6804809570312, "pointY": 1048.2442216819909 },
+                  "width": 747,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 22,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.46999999999999997,
+                      "textBaseline": 0.73473153306853911,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.9821816086769104, 0.88637906312942505, 0.19645535945892334, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 413.31951904296875, "pointY": 18.755778318009106 },
+                      "width": 747,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 22,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "234B222656611A6AB23795834EDF76E7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 141.01037609577179, "pointY": 1049.2162675804284 },
+                  "width": 284,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 22,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.46999999999999997,
+                      "textBaseline": 0.73346089208842546,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.00063899887027218938, 0.63360309600830078, 0.99999994039535522, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 150.98962390422821, "pointY": 18.783732419571606 },
+                      "width": 284,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 22,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "3BBC2AF3BE82C4C3F7BB4310FC1E880B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 858.80154418945312, "pointY": 71.4344482421875 },
+                  "width": 923,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 81,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.54253086419753083,
+                      "textBaseline": 0.77807730215567128,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 469.19845581054688, "pointY": 63.5655517578125 },
+                      "width": 923,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 81,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "88CD67C878D9EA07375EF098F8E0286F"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 1880.6704055149457, "pointY": 1046.5740358829498 },
+                  "width": 25,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 18,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.57444444444444442,
+                      "textBaseline": 0.87522719966040718,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.66274511814117432, 0.66274517774581909, 0.66274511814117432, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 15.329594485054258, "pointY": 16.425964117050171 },
+                      "width": 25,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 18,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "9B8121D7BD296F9E762C57D1D960320B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 928.87550926208496, "pointY": 271.86242032051086 },
+                  "width": 1798,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 100,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "D371E642-4021-4924-BC01-4C5370708C46",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.24815999999999999,
+                      "textBaseline": 0.88728947313880779,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 900.12449073791504, "pointY": 62.137579679489136 },
+                      "width": 1798,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 100,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "7F7935913B1CE59E4DB3F9C4B6AD2681"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 899.37889862060547, "pointY": 509.77175259590149 },
+                  "width": 1730,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 90,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.27573333333333333,
+                      "textBaseline": 0.97375866210301565,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 867.62110137939453, "pointY": 58.228247404098511 },
+                      "width": 1730,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 90,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "16BE2F06DDBBBAB97B0FC0301ED56146"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 971.35998916625977, "pointY": 737.86181616783142 },
+                  "width": 1849,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 92,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "98DEAEFD-2C7B-46CB-BB58-3821E033E111",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.26973913043478259,
+                      "textBaseline": 0.97166242117268464,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 926.64001083374023, "pointY": 59.138183832168579 },
+                      "width": 1849,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 92,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "BD21BEF20F85DE8FF8DE1E8590D80CBD"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 899.37889862060547, "pointY": 509.77175259590149 },
+              "width": 1730,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 90,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 925.62110137939453, "pointY": 75.228247404098511 },
+                  "width": 1730,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 90,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.53504109906323383, "pointY": 0.83586941560109451 }
+                },
+                "layers": [
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 1e-100,
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.01,
+                        "autoreverses": false,
+                        "animations": [
+                          {
+                            "additive": false,
+                            "timeOffset": 0,
+                            "beginTime": 0,
+                            "from": { "scalar": true },
+                            "repeatCount": 0,
+                            "fillMode": "both",
+                            "duration": 0.0001,
+                            "autoreverses": false,
+                            "property": "hidden",
+                            "to": { "scalar": false },
+                            "removedOnCompletion": true
+                          },
+                          {
+                            "additive": false,
+                            "timeOffset": 0,
+                            "beginTime": 0.0001,
+                            "from": { "scalar": false },
+                            "repeatCount": 0,
+                            "fillMode": "forwards",
+                            "duration": 0.0099000000000000008,
+                            "autoreverses": false,
+                            "property": "hidden",
+                            "to": { "scalar": false },
+                            "removedOnCompletion": true
+                          }
+                        ],
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.27573333333333333,
+                      "textBaseline": 0.97375866210301565,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 867.62110137939453, "pointY": 58.228247404098511 },
+                      "width": 1730,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 90,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "16BE2F06DDBBBAB97B0FC0301ED56146"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.01,
+          "type": "buildIn",
+          "attributes": { "direction": 0 },
+          "name": "apple:bc-appear",
+          "objectID": "DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ",
+          "targetRectangle": { "y": 1041.0841376728204, "x": 1050.2376000976565, "width": 750.03999999999951, "height": 24.41986083984375 }
+        },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 12.79906177520752, "x": 8.4552078247070312, "width": 339.9761962890625, "height": 149.27076721191406 }
+        },
+        {
+          "text": "Neutrinos in cosmology ",
+          "targetRectangle": { "y": 34.9344482421875, "x": 401.30154418945312, "width": 944.43500087395296, "height": 100.53440856933594 }
+        },
+        {
+          "text": "Uendert Andrade (UMichigan)",
+          "targetRectangle": { "y": 1042.0561835712579, "x": 8.4335163545608509, "width": 282.55999999999995, "height": 24.41986083984375 }
+        },
+        {
+          "text": "￼",
+          "targetRectangle": { "y": 1041.5740358829498, "x": 1872.6704055149457, "width": 22.240000000000009, "height": 23.44000244140625 }
+        },
+        {
+          "text": "A generic prediction of the hot Big Bang model is a relic neutrino background which leaves detectable imprints on cosmological observations.",
+          "targetRectangle": { "y": 225.86242032051086, "x": 33.875509262084961, "width": 1806.576, "height": 107.09040394649492 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": true,
+                      "singleTextureOpacity": 1,
+                      "textureType": 1,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 374.36648178100586, "pointY": 89.222042083740234 },
+                  "width": 5,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 131,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0,
+                      "shapePath": {
+                        "lineWidth": 1,
+                        "flatness": 0.59999999999999998,
+                        "lineCapStyle": 0,
+                        "elements": [
+                          { "type": "MoveToPoint", "points": [[2.8664817810058594, 1.7220420837402344]] },
+                          { "type": "AddLine", "points": [[2.8664817810058594, 129.14685453344373]] }
+                        ],
+                        "windingRule": 0,
+                        "lineJoinStyle": 0,
+                        "miterLimit": 10
+                      },
+                      "isBackgroundTexture": true,
+                      "textBaseline": 0,
+                      "isVerticalText": false,
+                      "textureType": 5
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 0.63351821899414062, "pointY": 63.777957916259766 },
+                      "width": 5,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 131,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "EBCB3760C7E1FAD8BC26AE84613B0E5A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 179.95520782470703, "pointY": 89.29906177520752 },
+                  "width": 343,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 153,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": true,
+                      "singleTextureOpacity": 1,
+                      "textureType": 5,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 170.04479217529297, "pointY": 74.70093822479248 },
+                      "width": 343,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 153,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "89C1150E5C4DF379FFDDAB194F7C6E9C"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 1383.6804809570312, "pointY": 1048.2442216819909 },
+                  "width": 747,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 22,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.46999999999999997,
+                      "textBaseline": 0.73473153306853911,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.9821816086769104, 0.88637906312942505, 0.19645535945892334, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 413.31951904296875, "pointY": 18.755778318009106 },
+                      "width": 747,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 22,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "234B222656611A6AB23795834EDF76E7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 141.01037609577179, "pointY": 1049.2162675804284 },
+                  "width": 284,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 22,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.46999999999999997,
+                      "textBaseline": 0.73346089208842546,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.00063899887027218938, 0.63360309600830078, 0.99999994039535522, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 150.98962390422821, "pointY": 18.783732419571606 },
+                      "width": 284,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 22,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "3BBC2AF3BE82C4C3F7BB4310FC1E880B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 858.80154418945312, "pointY": 71.4344482421875 },
+                  "width": 923,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 81,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.54253086419753083,
+                      "textBaseline": 0.77807730215567128,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 469.19845581054688, "pointY": 63.5655517578125 },
+                      "width": 923,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 81,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "88CD67C878D9EA07375EF098F8E0286F"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 1880.6704055149457, "pointY": 1046.5740358829498 },
+                  "width": 25,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 18,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.57444444444444442,
+                      "textBaseline": 0.87522719966040718,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.66274511814117432, 0.66274517774581909, 0.66274511814117432, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 15.329594485054258, "pointY": 16.425964117050171 },
+                      "width": 25,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 18,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "9B8121D7BD296F9E762C57D1D960320B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 928.87550926208496, "pointY": 271.86242032051086 },
+                  "width": 1798,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 100,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "D371E642-4021-4924-BC01-4C5370708C46",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.24815999999999999,
+                      "textBaseline": 0.88728947313880779,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 900.12449073791504, "pointY": 62.137579679489136 },
+                      "width": 1798,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 100,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "7F7935913B1CE59E4DB3F9C4B6AD2681"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 899.37889862060547, "pointY": 509.77175259590149 },
+                  "width": 1730,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 90,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.27573333333333333,
+                      "textBaseline": 0.97375866210301565,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 867.62110137939453, "pointY": 58.228247404098511 },
+                      "width": 1730,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 90,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "16BE2F06DDBBBAB97B0FC0301ED56146"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 971.35998916625977, "pointY": 737.86181616783142 },
+                  "width": 1849,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 92,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "98DEAEFD-2C7B-46CB-BB58-3821E033E111",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.26973913043478259,
+                      "textBaseline": 0.97166242117268464,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 926.64001083374023, "pointY": 59.138183832168579 },
+                      "width": 1849,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 92,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "BD21BEF20F85DE8FF8DE1E8590D80CBD"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 971.35998916625977, "pointY": 737.86181616783142 },
+              "width": 1849,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 92,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "98DEAEFD-2C7B-46CB-BB58-3821E033E111",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 913.14001083374023, "pointY": -151.86181616783142 },
+                  "width": 1849,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 92,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.49385614431246094, "pointY": -1.6506719148677329 }
+                },
+                "layers": [
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 1e-100,
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.01,
+                        "autoreverses": false,
+                        "animations": [
+                          {
+                            "additive": false,
+                            "timeOffset": 0,
+                            "beginTime": 0,
+                            "from": { "scalar": true },
+                            "repeatCount": 0,
+                            "fillMode": "both",
+                            "duration": 0.0001,
+                            "autoreverses": false,
+                            "property": "hidden",
+                            "to": { "scalar": false },
+                            "removedOnCompletion": true
+                          },
+                          {
+                            "additive": false,
+                            "timeOffset": 0,
+                            "beginTime": 0.0001,
+                            "from": { "scalar": false },
+                            "repeatCount": 0,
+                            "fillMode": "forwards",
+                            "duration": 0.0099000000000000008,
+                            "autoreverses": false,
+                            "property": "hidden",
+                            "to": { "scalar": false },
+                            "removedOnCompletion": true
+                          }
+                        ],
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.26973913043478259,
+                      "textBaseline": 0.97166242117268464,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 926.64001083374023, "pointY": 59.138183832168579 },
+                      "width": 1849,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 92,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "BD21BEF20F85DE8FF8DE1E8590D80CBD"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.01,
+          "type": "buildIn",
+          "attributes": { "direction": 0 },
+          "name": "apple:bc-appear",
+          "objectID": "98DEAEFD-2C7B-46CB-BB58-3821E033E111"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ",
+          "targetRectangle": { "y": 1041.0841376728204, "x": 1050.2376000976565, "width": 750.03999999999951, "height": 24.41986083984375 }
+        },
+        {
+          "text": "Both the acoustic oscillations in the primordial plasma as well as the background evolution and structure formation",
+          "targetRectangle": { "y": 468.77175259590149, "x": 38.378898620605469, "width": 1738.992, "height": 107.09040394649492 }
+        },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 12.79906177520752, "x": 8.4552078247070312, "width": 339.9761962890625, "height": 149.27076721191406 }
+        },
+        {
+          "text": "Neutrinos in cosmology ",
+          "targetRectangle": { "y": 34.9344482421875, "x": 401.30154418945312, "width": 944.43500087395296, "height": 100.53440856933594 }
+        },
+        {
+          "text": "Uendert Andrade (UMichigan)",
+          "targetRectangle": { "y": 1042.0561835712579, "x": 8.4335163545608509, "width": 282.55999999999995, "height": 24.41986083984375 }
+        },
+        {
+          "text": "￼",
+          "targetRectangle": { "y": 1041.5740358829498, "x": 1872.6704055149457, "width": 22.240000000000009, "height": 23.44000244140625 }
+        },
+        {
+          "text": "A generic prediction of the hot Big Bang model is a relic neutrino background which leaves detectable imprints on cosmological observations.",
+          "targetRectangle": { "y": 225.86242032051086, "x": 33.875509262084961, "width": 1806.576, "height": 107.09040394649492 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": true,
+                      "singleTextureOpacity": 1,
+                      "textureType": 1,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 374.36648178100586, "pointY": 89.222042083740234 },
+                  "width": 5,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 131,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0,
+                      "shapePath": {
+                        "lineWidth": 1,
+                        "flatness": 0.59999999999999998,
+                        "lineCapStyle": 0,
+                        "elements": [
+                          { "type": "MoveToPoint", "points": [[2.8664817810058594, 1.7220420837402344]] },
+                          { "type": "AddLine", "points": [[2.8664817810058594, 129.14685453344373]] }
+                        ],
+                        "windingRule": 0,
+                        "lineJoinStyle": 0,
+                        "miterLimit": 10
+                      },
+                      "isBackgroundTexture": true,
+                      "textBaseline": 0,
+                      "isVerticalText": false,
+                      "textureType": 5
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 0.63351821899414062, "pointY": 63.777957916259766 },
+                      "width": 5,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 131,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "EBCB3760C7E1FAD8BC26AE84613B0E5A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 179.95520782470703, "pointY": 89.29906177520752 },
+                  "width": 343,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 153,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": true,
+                      "singleTextureOpacity": 1,
+                      "textureType": 5,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 170.04479217529297, "pointY": 74.70093822479248 },
+                      "width": 343,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 153,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "89C1150E5C4DF379FFDDAB194F7C6E9C"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 1383.6804809570312, "pointY": 1048.2442216819909 },
+                  "width": 747,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 22,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.46999999999999997,
+                      "textBaseline": 0.73473153306853911,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.9821816086769104, 0.88637906312942505, 0.19645535945892334, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 413.31951904296875, "pointY": 18.755778318009106 },
+                      "width": 747,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 22,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "234B222656611A6AB23795834EDF76E7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 141.01037609577179, "pointY": 1049.2162675804284 },
+                  "width": 284,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 22,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.46999999999999997,
+                      "textBaseline": 0.73346089208842546,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.00063899887027218938, 0.63360309600830078, 0.99999994039535522, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 150.98962390422821, "pointY": 18.783732419571606 },
+                      "width": 284,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 22,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "3BBC2AF3BE82C4C3F7BB4310FC1E880B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 858.80154418945312, "pointY": 71.4344482421875 },
+                  "width": 923,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 81,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.54253086419753083,
+                      "textBaseline": 0.77807730215567128,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 469.19845581054688, "pointY": 63.5655517578125 },
+                      "width": 923,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 81,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "88CD67C878D9EA07375EF098F8E0286F"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 1880.6704055149457, "pointY": 1046.5740358829498 },
+                  "width": 25,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 18,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.57444444444444442,
+                      "textBaseline": 0.87522719966040718,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.66274511814117432, 0.66274517774581909, 0.66274511814117432, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 15.329594485054258, "pointY": 16.425964117050171 },
+                      "width": 25,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 18,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "9B8121D7BD296F9E762C57D1D960320B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 928.87550926208496, "pointY": 271.86242032051086 },
+                  "width": 1798,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 100,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "D371E642-4021-4924-BC01-4C5370708C46",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.24815999999999999,
+                      "textBaseline": 0.88728947313880779,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 900.12449073791504, "pointY": 62.137579679489136 },
+                      "width": 1798,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 100,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "7F7935913B1CE59E4DB3F9C4B6AD2681"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 899.37889862060547, "pointY": 509.77175259590149 },
+                  "width": 1730,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 90,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "DB95ABBC-27A5-44C9-91E9-A5CE40A8CD51",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.27573333333333333,
+                      "textBaseline": 0.97375866210301565,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 867.62110137939453, "pointY": 58.228247404098511 },
+                      "width": 1730,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 90,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "16BE2F06DDBBBAB97B0FC0301ED56146"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 971.35998916625977, "pointY": 737.86181616783142 },
+                  "width": 1849,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 92,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "objectID": "98DEAEFD-2C7B-46CB-BB58-3821E033E111",
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "singleTextureOpacity": 1,
+                      "textXHeight": 0.26973913043478259,
+                      "textBaseline": 0.97166242117268464,
+                      "isBackgroundTexture": true,
+                      "isVerticalText": false,
+                      "textColor": [0.99990898370742798, 1, 0.99987810850143433, 1],
+                      "textureType": 6
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 926.64001083374023, "pointY": 59.138183832168579 },
+                      "width": 1849,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 92,
+                      "hidden": true,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "BD21BEF20F85DE8FF8DE1E8590D80CBD"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "0",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "61398895CB6DD2BF5D0A74B9427E09D4"
+                  },
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 0,
+                        "from": { "scalar": false },
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.001,
+                        "autoreverses": false,
+                        "property": "hidden",
+                        "to": { "scalar": true },
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "EDB101960B4A9322D1F594412E08B8D6"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.001,
+          "type": "transition",
+          "attributes": { "direction": 0 },
+          "name": "none",
+          "objectID": "0"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ",
+          "targetRectangle": { "y": 1041.0841376728204, "x": 1050.2376000976565, "width": 750.03999999999951, "height": 24.41986083984375 }
+        },
+        {
+          "text": "Both the acoustic oscillations in the primordial plasma as well as the background evolution and structure formation",
+          "targetRectangle": { "y": 468.77175259590149, "x": 38.378898620605469, "width": 1738.992, "height": 107.09040394649492 }
+        },
+        {
+          "text": "Cosmological observations are sensitive to both the number of neutrino species and their total mass",
+          "targetRectangle": { "y": 695.86181616783142, "x": 50.859989166259766, "width": 1858.8000000000002, "height": 108.94689806443057 }
+        },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 12.79906177520752, "x": 8.4552078247070312, "width": 339.9761962890625, "height": 149.27076721191406 }
+        },
+        {
+          "text": "Neutrinos in cosmology ",
+          "targetRectangle": { "y": 34.9344482421875, "x": 401.30154418945312, "width": 944.43500087395296, "height": 100.53440856933594 }
+        },
+        {
+          "text": "Uendert Andrade (UMichigan)",
+          "targetRectangle": { "y": 1042.0561835712579, "x": 8.4335163545608509, "width": 282.55999999999995, "height": 24.41986083984375 }
+        },
+        {
+          "text": "￼",
+          "targetRectangle": { "y": 1041.5740358829498, "x": 1872.6704055149457, "width": 22.240000000000009, "height": 23.44000244140625 }
+        },
+        {
+          "text": "A generic prediction of the hot Big Bang model is a relic neutrino background which leaves detectable imprints on cosmological observations.",
+          "targetRectangle": { "y": 225.86242032051086, "x": 33.875509262084961, "width": 1806.576, "height": 107.09040394649492 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "objectID": "0",
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "layers": [],
+                "texturedRectangle": {
+                  "isBackgroundTexture": false,
+                  "singleTextureOpacity": 1,
+                  "textureType": 0,
+                  "textBaseline": 0,
+                  "textXHeight": 0,
+                  "isVerticalText": false
+                },
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 0,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "texture": "EDB101960B4A9322D1F594412E08B8D6"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

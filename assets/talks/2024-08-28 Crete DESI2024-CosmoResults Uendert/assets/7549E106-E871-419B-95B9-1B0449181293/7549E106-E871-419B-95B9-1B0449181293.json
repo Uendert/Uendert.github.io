@@ -1,1 +1,253 @@
-{"assets":{"A7B983577A0708C7A53C79B0A7FC32B6":{"type":"texture","index":1,"url":{"native":"assets\/7549E106-E871-419B-95B9-1B0449181293.pdf"},"width":1920,"height":1080},"0DE7FDE01495E07A1650F83E8EED5EE7":{"type":"texture","index":0,"url":{"native":"assets\/7549E106-E871-419B-95B9-1B0449181293.pdf"},"width":1920,"height":1080}},"events":[{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"A7B983577A0708C7A53C79B0A7FC32B6"},{"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":false},"repeatCount":0,"fillMode":"both","duration":0.001,"autoreverses":false,"property":"hidden","to":{"scalar":true},"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"0DE7FDE01495E07A1650F83E8EED5EE7"}]}]},"effects":[],"duration":0.001,"type":"transition","attributes":{"direction":0},"name":"none","objectID":"0"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ","targetRectangle":{"y":1041.0841376728204,"x":1050.2376000976565,"width":750.03999999999951,"height":24.41986083984375}},{"text":"pasted-movie.png","targetRectangle":{"y":208.8958740234375,"x":123.258544921875,"width":672.15081787109375,"height":662.208251953125}},{"text":"Picture 8","targetRectangle":{"y":12.79906177520752,"x":8.4552078247070312,"width":339.9761962890625,"height":149.27076721191406}},{"text":"Blinding? In cosmology?","targetRectangle":{"y":34.9344482421875,"x":401.30154418945312,"width":953.70000087395283,"height":100.53440856933594}},{"text":"pasted-movie.png","targetRectangle":{"y":215.51158142089844,"x":959.04669189453125,"width":850.90338134765625,"height":648.976806640625}},{"text":"Uendert Andrade (UMichigan)","targetRectangle":{"y":1042.0561835712579,"x":8.4335163545608509,"width":282.55999999999995,"height":24.41986083984375}},{"text":"￼","targetRectangle":{"y":1041.5740358829498,"x":1872.6704055149457,"width":22.240000000000009,"height":23.44000244140625}},{"text":"… what’s the point ???","targetRectangle":{"y":921.93018388748169,"x":489.40750122070312,"width":880.43000083595507,"height":100.53440856933594}},{"text":"Credit slide: Samuel Brieden","targetRectangle":{"y":958.03338629007339,"x":1581.75927734375,"width":304.03199999999993,"height":28.3280029296875}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"0DE7FDE01495E07A1650F83E8EED5EE7"}]}]}}]}
+{
+  "assets": {
+    "A7B983577A0708C7A53C79B0A7FC32B6": {
+      "type": "texture",
+      "index": 1,
+      "url": { "native": "assets/7549E106-E871-419B-95B9-1B0449181293.pdf" },
+      "width": 1920,
+      "height": 1080
+    },
+    "0DE7FDE01495E07A1650F83E8EED5EE7": {
+      "type": "texture",
+      "index": 0,
+      "url": { "native": "assets/7549E106-E871-419B-95B9-1B0449181293.pdf" },
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "events": [
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "0",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "A7B983577A0708C7A53C79B0A7FC32B6"
+                  },
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 0,
+                        "from": { "scalar": false },
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.001,
+                        "autoreverses": false,
+                        "property": "hidden",
+                        "to": { "scalar": true },
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "0DE7FDE01495E07A1650F83E8EED5EE7"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.001,
+          "type": "transition",
+          "attributes": { "direction": 0 },
+          "name": "none",
+          "objectID": "0"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ",
+          "targetRectangle": { "y": 1041.0841376728204, "x": 1050.2376000976565, "width": 750.03999999999951, "height": 24.41986083984375 }
+        },
+        {
+          "text": "pasted-movie.png",
+          "targetRectangle": { "y": 208.8958740234375, "x": 123.258544921875, "width": 672.15081787109375, "height": 662.208251953125 }
+        },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 12.79906177520752, "x": 8.4552078247070312, "width": 339.9761962890625, "height": 149.27076721191406 }
+        },
+        {
+          "text": "Blinding? In cosmology?",
+          "targetRectangle": { "y": 34.9344482421875, "x": 401.30154418945312, "width": 953.70000087395283, "height": 100.53440856933594 }
+        },
+        {
+          "text": "pasted-movie.png",
+          "targetRectangle": { "y": 215.51158142089844, "x": 959.04669189453125, "width": 850.90338134765625, "height": 648.976806640625 }
+        },
+        {
+          "text": "Uendert Andrade (UMichigan)",
+          "targetRectangle": { "y": 1042.0561835712579, "x": 8.4335163545608509, "width": 282.55999999999995, "height": 24.41986083984375 }
+        },
+        {
+          "text": "￼",
+          "targetRectangle": { "y": 1041.5740358829498, "x": 1872.6704055149457, "width": 22.240000000000009, "height": 23.44000244140625 }
+        },
+        {
+          "text": "… what’s the point ???",
+          "targetRectangle": { "y": 921.93018388748169, "x": 489.40750122070312, "width": 880.43000083595507, "height": 100.53440856933594 }
+        },
+        {
+          "text": "Credit slide: Samuel Brieden",
+          "targetRectangle": { "y": 958.03338629007339, "x": 1581.75927734375, "width": 304.03199999999993, "height": 28.3280029296875 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "objectID": "0",
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "layers": [],
+                "texturedRectangle": {
+                  "isBackgroundTexture": false,
+                  "singleTextureOpacity": 1,
+                  "textureType": 0,
+                  "textBaseline": 0,
+                  "textXHeight": 0,
+                  "isVerticalText": false
+                },
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 0,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "texture": "0DE7FDE01495E07A1650F83E8EED5EE7"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

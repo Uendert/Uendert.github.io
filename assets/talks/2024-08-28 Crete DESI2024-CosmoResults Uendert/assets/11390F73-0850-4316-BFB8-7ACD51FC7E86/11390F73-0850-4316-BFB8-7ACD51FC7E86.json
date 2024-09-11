@@ -1,1 +1,285 @@
-{"assets":{"8561BA61B0D12686A0F8CB522475016C":{"type":"texture","index":0,"url":{"native":"assets\/11390F73-0850-4316-BFB8-7ACD51FC7E86.pdf"},"width":1920,"height":1080},"9B56A4E1B29CD14088E235FB718B907E":{"type":"texture","index":1,"url":{"native":"assets\/11390F73-0850-4316-BFB8-7ACD51FC7E86.pdf"},"width":1920,"height":1080}},"events":[{"effects":[{"beginTime":0,"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"9B56A4E1B29CD14088E235FB718B907E"},{"animations":[{"additive":false,"timeOffset":0,"beginTime":0,"from":{"scalar":false},"repeatCount":0,"fillMode":"both","duration":0.001,"autoreverses":false,"property":"hidden","to":{"scalar":true},"removedOnCompletion":false}],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"8561BA61B0D12686A0F8CB522475016C"}]}]},"effects":[],"duration":0.001,"type":"transition","attributes":{"direction":0},"name":"none","objectID":"0"}],"automaticPlay":false,"hyperlinks":[],"accessibility":[{"text":"pasted-movie.png","targetRectangle":{"y":179.55929565429688,"x":36.608821868896484,"width":943.700927734375,"height":709.27569580078125}},{"text":"equation.pdf","targetRectangle":{"y":619.89825338941614,"x":1040.4498624801636,"width":91.629794392523308,"height":67.547835020261346}},{"text":"equation.pdf","targetRectangle":{"y":447.17459617593806,"x":1635.3963223902044,"width":120.62044859813091,"height":67.547835020261346}},{"text":"U. Andrade et al (2024): arXiv:2404.07282","targetRectangle":{"y":902.83499193191528,"x":42.608843326568604,"width":412.177734375,"height":26}},{"text":"equation.pdf","targetRectangle":{"y":447.17459617593806,"x":1239.1352951483859,"width":16.118803738317865,"height":68.011830582378025}},{"text":"Additional requirement: shifts in the blinded cosmology to specific regions within the ￼ parameter space","targetRectangle":{"y":233.98858261108398,"x":1040.4498624801636,"width":853.24098300933861,"height":173.95015722390764}},{"text":"shifts in ￼ do not exceed ￼of the fiducial value, ￼","targetRectangle":{"y":402.17459617593812,"x":1040.4498624801636,"width":853.24098300933861,"height":178.4713341770169}},{"text":"￼for ￼ from unity","targetRectangle":{"y":574.89825338941614,"x":1040.4498624801636,"width":524.20707524068393,"height":123.28553861976127}},{"text":"Picture 8","targetRectangle":{"y":12.79906177520752,"x":8.4552078247070312,"width":339.9761962890625,"height":149.27076721191406}},{"text":"equation.pdf","targetRectangle":{"y":336.85737878532382,"x":1260.9138624801635,"width":183.71027245797563,"height":71.081361049667805}},{"text":"How is the DESI BAO analysis different?","targetRectangle":{"y":34.9344482421875,"x":401.30154418945312,"width":1458.5745013930091,"height":94.682344055175776}},{"text":"equation.pdf","targetRectangle":{"y":619.89825338941614,"x":1203.1676568726868,"width":133.82528084816045,"height":78.285538619761269}},{"text":"￼","targetRectangle":{"y":1041.5740358829498,"x":1872.6704055149457,"width":22.240000000000009,"height":23.44000244140625}},{"text":"equation.pdf","targetRectangle":{"y":509.72923621917505,"x":1346.2578624801636,"width":202.04168740227351,"height":70.91669413377997}},{"text":"Uendert Andrade (UMichigan)","targetRectangle":{"y":1042.0561835712579,"x":8.4335163545608509,"width":282.55999999999995,"height":24.41986083984375}},{"text":"DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ","targetRectangle":{"y":1041.0841376728204,"x":1050.2376000976565,"width":750.03999999999951,"height":24.41986083984375}},{"text":"Validating the Galaxy and Quasar Catalog-Level Blinding Scheme for the DESI 2024 analysis: U. Andrade et al (2024): arXiv:2404.07282","targetRectangle":{"y":901.7721962928772,"x":46.0949387550354,"width":1566.48,"height":107.09040394649492}}],"baseLayer":{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"objectID":"0","layers":[{"animations":[],"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,-0.00035007912466775983,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":251658240,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"layers":[{"animations":[],"layers":[],"texturedRectangle":{"isBackgroundTexture":false,"singleTextureOpacity":1,"textureType":0,"textBaseline":0,"textXHeight":0,"isVerticalText":false},"initialState":{"affineTransform":[1,0,0,1,0,0],"masksToBounds":false,"rotation":0,"scale":1,"position":{"pointX":960,"pointY":540},"width":1920,"sublayerTransform":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"contentsRect":{"y":0,"x":0,"width":1,"height":1},"opacity":1,"edgeAntialiasingMask":0,"height":1080,"hidden":false,"anchorPoint":{"pointX":0.5,"pointY":0.5}},"texture":"8561BA61B0D12686A0F8CB522475016C"}]}]}}]}
+{
+  "assets": {
+    "8561BA61B0D12686A0F8CB522475016C": {
+      "type": "texture",
+      "index": 0,
+      "url": { "native": "assets/11390F73-0850-4316-BFB8-7ACD51FC7E86.pdf" },
+      "width": 1920,
+      "height": 1080
+    },
+    "9B56A4E1B29CD14088E235FB718B907E": {
+      "type": "texture",
+      "index": 1,
+      "url": { "native": "assets/11390F73-0850-4316-BFB8-7ACD51FC7E86.pdf" },
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "events": [
+    {
+      "effects": [
+        {
+          "beginTime": 0,
+          "baseLayer": {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "objectID": "0",
+            "layers": [
+              {
+                "animations": [],
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 251658240,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "layers": [
+                  {
+                    "animations": [],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "9B56A4E1B29CD14088E235FB718B907E"
+                  },
+                  {
+                    "animations": [
+                      {
+                        "additive": false,
+                        "timeOffset": 0,
+                        "beginTime": 0,
+                        "from": { "scalar": false },
+                        "repeatCount": 0,
+                        "fillMode": "both",
+                        "duration": 0.001,
+                        "autoreverses": false,
+                        "property": "hidden",
+                        "to": { "scalar": true },
+                        "removedOnCompletion": false
+                      }
+                    ],
+                    "layers": [],
+                    "texturedRectangle": {
+                      "isBackgroundTexture": false,
+                      "singleTextureOpacity": 1,
+                      "textureType": 0,
+                      "textBaseline": 0,
+                      "textXHeight": 0,
+                      "isVerticalText": false
+                    },
+                    "initialState": {
+                      "affineTransform": [1, 0, 0, 1, 0, 0],
+                      "masksToBounds": false,
+                      "rotation": 0,
+                      "scale": 1,
+                      "position": { "pointX": 960, "pointY": 540 },
+                      "width": 1920,
+                      "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                      "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                      "opacity": 1,
+                      "edgeAntialiasingMask": 0,
+                      "height": 1080,
+                      "hidden": false,
+                      "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                    },
+                    "texture": "8561BA61B0D12686A0F8CB522475016C"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects": [],
+          "duration": 0.001,
+          "type": "transition",
+          "attributes": { "direction": 0 },
+          "name": "none",
+          "objectID": "0"
+        }
+      ],
+      "automaticPlay": false,
+      "hyperlinks": [],
+      "accessibility": [
+        {
+          "text": "pasted-movie.png",
+          "targetRectangle": { "y": 179.55929565429688, "x": 36.608821868896484, "width": 943.700927734375, "height": 709.27569580078125 }
+        },
+        {
+          "text": "equation.pdf",
+          "targetRectangle": { "y": 619.89825338941614, "x": 1040.4498624801636, "width": 91.629794392523308, "height": 67.547835020261346 }
+        },
+        {
+          "text": "equation.pdf",
+          "targetRectangle": { "y": 447.17459617593806, "x": 1635.3963223902044, "width": 120.62044859813091, "height": 67.547835020261346 }
+        },
+        {
+          "text": "U. Andrade et al (2024): arXiv:2404.07282",
+          "targetRectangle": { "y": 902.83499193191528, "x": 42.608843326568604, "width": 412.177734375, "height": 26 }
+        },
+        {
+          "text": "equation.pdf",
+          "targetRectangle": { "y": 447.17459617593806, "x": 1239.1352951483859, "width": 16.118803738317865, "height": 68.011830582378025 }
+        },
+        {
+          "text": "Additional requirement: shifts in the blinded cosmology to specific regions within the ￼ parameter space",
+          "targetRectangle": { "y": 233.98858261108398, "x": 1040.4498624801636, "width": 853.24098300933861, "height": 173.95015722390764 }
+        },
+        {
+          "text": "shifts in ￼ do not exceed ￼of the fiducial value, ￼",
+          "targetRectangle": { "y": 402.17459617593812, "x": 1040.4498624801636, "width": 853.24098300933861, "height": 178.4713341770169 }
+        },
+        {
+          "text": "￼for ￼ from unity",
+          "targetRectangle": { "y": 574.89825338941614, "x": 1040.4498624801636, "width": 524.20707524068393, "height": 123.28553861976127 }
+        },
+        {
+          "text": "Picture 8",
+          "targetRectangle": { "y": 12.79906177520752, "x": 8.4552078247070312, "width": 339.9761962890625, "height": 149.27076721191406 }
+        },
+        {
+          "text": "equation.pdf",
+          "targetRectangle": { "y": 336.85737878532382, "x": 1260.9138624801635, "width": 183.71027245797563, "height": 71.081361049667805 }
+        },
+        {
+          "text": "How is the DESI BAO analysis different?",
+          "targetRectangle": { "y": 34.9344482421875, "x": 401.30154418945312, "width": 1458.5745013930091, "height": 94.682344055175776 }
+        },
+        {
+          "text": "equation.pdf",
+          "targetRectangle": { "y": 619.89825338941614, "x": 1203.1676568726868, "width": 133.82528084816045, "height": 78.285538619761269 }
+        },
+        {
+          "text": "￼",
+          "targetRectangle": { "y": 1041.5740358829498, "x": 1872.6704055149457, "width": 22.240000000000009, "height": 23.44000244140625 }
+        },
+        {
+          "text": "equation.pdf",
+          "targetRectangle": { "y": 509.72923621917505, "x": 1346.2578624801636, "width": 202.04168740227351, "height": 70.91669413377997 }
+        },
+        {
+          "text": "Uendert Andrade (UMichigan)",
+          "targetRectangle": { "y": 1042.0561835712579, "x": 8.4335163545608509, "width": 282.55999999999995, "height": 24.41986083984375 }
+        },
+        {
+          "text": "DESI VI. Cosmological constraints - Aug 2024 XII ICNFP @ Crete, Greece, 2024 ",
+          "targetRectangle": { "y": 1041.0841376728204, "x": 1050.2376000976565, "width": 750.03999999999951, "height": 24.41986083984375 }
+        },
+        {
+          "text": "Validating the Galaxy and Quasar Catalog-Level Blinding Scheme for the DESI 2024 analysis: U. Andrade et al (2024): arXiv:2404.07282",
+          "targetRectangle": { "y": 901.7721962928772, "x": 46.0949387550354, "width": 1566.48, "height": 107.09040394649492 }
+        }
+      ],
+      "baseLayer": {
+        "animations": [],
+        "initialState": {
+          "affineTransform": [1, 0, 0, 1, 0, 0],
+          "masksToBounds": false,
+          "rotation": 0,
+          "scale": 1,
+          "position": { "pointX": 960, "pointY": 540 },
+          "width": 1920,
+          "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+          "opacity": 1,
+          "edgeAntialiasingMask": 251658240,
+          "height": 1080,
+          "hidden": false,
+          "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+        },
+        "objectID": "0",
+        "layers": [
+          {
+            "animations": [],
+            "initialState": {
+              "affineTransform": [1, 0, 0, 1, 0, 0],
+              "masksToBounds": false,
+              "rotation": 0,
+              "scale": 1,
+              "position": { "pointX": 960, "pointY": 540 },
+              "width": 1920,
+              "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00035007912466775983, 0, 0, 0, 1],
+              "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+              "opacity": 1,
+              "edgeAntialiasingMask": 251658240,
+              "height": 1080,
+              "hidden": false,
+              "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+            },
+            "layers": [
+              {
+                "animations": [],
+                "layers": [],
+                "texturedRectangle": {
+                  "isBackgroundTexture": false,
+                  "singleTextureOpacity": 1,
+                  "textureType": 0,
+                  "textBaseline": 0,
+                  "textXHeight": 0,
+                  "isVerticalText": false
+                },
+                "initialState": {
+                  "affineTransform": [1, 0, 0, 1, 0, 0],
+                  "masksToBounds": false,
+                  "rotation": 0,
+                  "scale": 1,
+                  "position": { "pointX": 960, "pointY": 540 },
+                  "width": 1920,
+                  "sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+                  "contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+                  "opacity": 1,
+                  "edgeAntialiasingMask": 0,
+                  "height": 1080,
+                  "hidden": false,
+                  "anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+                },
+                "texture": "8561BA61B0D12686A0F8CB522475016C"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
