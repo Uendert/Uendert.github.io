@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'concurrent-ruby', '1.3.4'
     gem 'classifier-reborn'
-    gem 'jekyll'
+    gem 'jekyll', '4.2.0'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -10,7 +10,6 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
@@ -23,8 +22,11 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'activesupport', '7.2.0'
     gem 'minitest', '5.25.1'
-
+    gem 'jekyll-minifier', '0.1.10'  # Updated to the latest available version
+    gem 'uglifier', '4.2.0'
 end
+
+
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
