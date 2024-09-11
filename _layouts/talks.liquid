@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p>Welcome to my <i>Talks</i> page! Here, you'll find a collection of my recent presentations and talks, organized by date. Feel free to use any materials shared here upon proper citation.</p>
+
+<!-- Sort all talks by date in descending order -->
+{% assign all_talks = site.data.talks | sort: 'date' | reverse %}
+
+{% for talk in all_talks %}
+<div class="talk">
+  <h3 class="talk-title">{{ talk.title }}</h3>
+  <p><strong>Type:</strong> {{ talk.type }}</p>
+  <p><strong>Date:</strong> {{ talk.date | date: "%B %d, %Y" }}</p>
+  <p><strong>Location:</strong> {{ talk.location }}</p>
+  <!-- Removed strip_html to allow HTML rendering in descriptions -->
+  <p><strong>Description:</strong> {{ talk.description}}</p>
+
+  <div class="talk-links">
+    {% if talk.slides %}
+    <a href="{{ talk.slides }}" target="_blank">Slides</a>
+    {% endif %}
+  </div>
+</div>
+<hr>
+{% endfor %}

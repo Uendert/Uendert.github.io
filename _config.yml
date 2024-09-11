@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -49,7 +49,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -81,7 +81,7 @@ flickr_id: # your flickr id
 github_username: Uendert # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: 1686173 # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -90,13 +90,13 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-4118-8236 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid:  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you have any questions, feel free to contact me at <a href="mailto: uendsa@umich.edu "> uendsa@umich.edu </a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -193,10 +193,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -205,7 +205,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -248,6 +248,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/
+  - _projects/
+  - _news/
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -313,8 +317,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Andrade]
+  first_name: [U., Uendert]
 
   style: apa
   locale: en
@@ -373,7 +377,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: 10 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.

@@ -23,3 +23,56 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Light mode variables (default) */
+body {
+  --bg-color: #f9f9f9;           
+  --border-color: #ddd;          
+  --text-color: #333;            
+  --link-color: #007acc;         
+  --link-hover-color: #005b99;   
+}
+
+/* Dark mode variables */
+@media (prefers-color-scheme: dark) {
+  body {
+    --bg-color: #222;              
+    --border-color: #333;          
+    --text-color: #fff;            
+    --link-color: #66b3ff;         
+    --link-hover-color: #3399ff;   
+  }
+}
+
+/* General styles using CSS variables */
+.talk {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.talk-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+}
+
+.talk-description, /* New class for description if needed */
+.talk p, /* Ensuring <p> tags are styled correctly */
+.talk-links {
+  color: var(--text-color);
+}
+
+.talk-links a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.talk-links a:hover {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}

@@ -7,3 +7,27 @@
 
 "Vision":
   color: "#009f36"
+
+"MNRAS":
+  url: https://academic.oup.com/mnras
+  color: "#9370DB"
+
+"JCAP":
+  url: https://iopscience.iop.org/journal/1475-7516
+  # color: "#E0F7FA"
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "#3E5984"
+
+"EPJC":
+  url: https://link.springer.com/journal/10052
+  # color: "#FF69B4"
+
+"PhRvD":
+  url: https://journals.aps.org/prd/
+  color: "#FF6347"
+
+"A&A":
+  url: https://www.aanda.org/
+  color: "#4C8C95"
